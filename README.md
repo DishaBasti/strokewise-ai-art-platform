@@ -45,9 +45,6 @@ StrokeWise is an AI-driven web platform that blends creative expression with str
 
 🎭 Expand mediums (oil paint, digital, sketch markers)
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 **Disha S Basti** 
 

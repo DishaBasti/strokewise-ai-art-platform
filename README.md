@@ -12,7 +12,7 @@ StrokeWise is an AI-driven web platform that blends creative expression with str
 - **React + TypeScript** frontend (Vite + Tailwind CSS + Framer Motion)
 - ⚙**FastAPI (Python)** backend with Pydantic
 - **Firebase** for authentication and user data
-- Deployed on **Netlify**
+- Deployed on **Firebase**
 
 
 ## Demo Preview

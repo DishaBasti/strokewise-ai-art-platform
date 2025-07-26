@@ -22,7 +22,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173",         # for local dev
         "https://strokewise-6517a.web.app/",        # Firebase hosted
-        "https://strokewise-6517a.firebaseapp.com"]# alternate Firebase domain
+        "https://strokewise-6517a.firebaseapp.com"], # alternate Firebase domain
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

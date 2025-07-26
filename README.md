@@ -17,7 +17,7 @@ StrokeWise is an AI-driven web platform that blends creative expression with str
 
 ## Demo Preview
 
-> _Coming soon!_ 
+> https://strokewise-6517a.web.app/ 
 
 
 ## Features
@@ -28,37 +28,6 @@ StrokeWise is an AI-driven web platform that blends creative expression with str
 - Personalized learning history for users
 - Gallery to save and manage artworks
 - RESTful API for modular backend integration
-
-
-## How to Run Locally
-
-1. **Clone the repo:**
-```bash
-git clone https://github.com/DishaBasti/strokewise-ai-art-education-platform.git
-cd strokewise-ai-art-education-platform
-```
-2. **Backend Setup (FastAPI)**
-
-```bash
-cd backend/
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate (Windows)
-pip install -r requirements.txt
-python main.py
-```
-3. **Frontend Setup (React + Vite)**
-
-```bash
-cd frontend/
-npm install
-npm run dev
-```
-4. **Visit:**
-
-```arduino
-Frontend: http://localhost:5173/
-API: http://localhost:8000/
-```
 
 
 ## Applications

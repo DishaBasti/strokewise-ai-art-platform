@@ -15,7 +15,7 @@ StrokeWise is an AI-driven web platform that blends creative expression with str
 - Deployed on **Firebase**
 
 
-## Demo Preview
+## Live deployment
 
 > https://strokewise-6517a.web.app
 
